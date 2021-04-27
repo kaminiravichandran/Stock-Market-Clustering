@@ -1,1 +1,2 @@
 # Stock-Market-Clustering
+AUTHOR NAME: KAMINI RAVICHANDRAN
